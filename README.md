@@ -1,1 +1,1 @@
-I'll be adding the Solution queries for the solved problems from this youtube playlist: 30DaySQLQueryChallenge[https://youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&si=oFHqgkWGK50Jn8jc]
+I'll be adding the Solution queries for the solved problems from this youtube playlist: [30DaySQLQueryChallenge](https://youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&si=oFHqgkWGK50Jn8jc)
